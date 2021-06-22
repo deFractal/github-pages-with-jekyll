@@ -1,6 +1,7 @@
 title: Home | GitHub Pages with Jekyll
 author: David
 email: email-address@domain.invalid
+theme: minima
 description: > # this means to ignore newlines until next "keyword:"
   Here are some words where a description would be for a blog, if
   this were not merely an example page for the course it's part of.
